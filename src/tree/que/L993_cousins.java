@@ -1,4 +1,4 @@
-package tree.TreeQ;
+package tree.que;
 
 public class L993_cousins {
     public boolean isCousins(TreeNode root, int x, int y) {

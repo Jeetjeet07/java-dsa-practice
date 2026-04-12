@@ -1,4 +1,4 @@
-package tree.TreeQ;
+package tree.que;
 
 public class TreeNode {
     public int val;

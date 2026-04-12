@@ -1,4 +1,4 @@
-package tree.TreeQ;
+package tree.que;
 
 public class L101_symmT {
 }
